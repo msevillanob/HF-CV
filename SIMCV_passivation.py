@@ -2,7 +2,7 @@
 ===========HF-CV simulation through passivation parameters:==============
 #                                                                       #
 # The program was developed by Miguel Ángel Sevillano in the frame of   #
-# a Master degre in Physics. If you have any question or suggestion     #
+# the Master degree in Physics. If you have any question or suggestion  #
 # please, contact to the author to the following emails:                #
 # msevillanob@pucp.edu.pe or msevillano@uni.pe                          #
 #-----------------------------------------------------------------------#
