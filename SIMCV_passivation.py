@@ -15,14 +15,14 @@
 #                                                                       #
 # The program is constructed for SiO2/c-Si MOS system, if you want to   #
 # use for others materials you need to change manually the constants    #
-# the material.                                                         #
+# associated with the material.                                         #
 #-----------------------------------------------------------------------#
 # Researchers should cite this work as follows:                         #
 #                                                                       #
 # Sevillano Bendezú, Miguel Ángel."Comparison and evaluation of         #		
 # measured and simulated High-Frequency                                 #
 # Capacitance-voltage curves of MOS structures for different interface  #
-# passivation parameters". Master Thesis. 2019                          #
+# passivation parameters". Master Thesis. 2019.                         #
 #                                                                       #
 #=======================================================================#
 """
