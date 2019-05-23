@@ -1,30 +1,30 @@
 """
-===========HF-CV simulation through passivation parameters:=============
-# 																	   #
-# The program was developed by Miguel Ángel Sevillano in the frame of  #
-# a Master degre in Physics. If you have any question or suggestion    #
-# please, contact to the author to the following emails:               #
-# msevillanob@pucp.edu.pe or msevillano@uni.pe   					   #
-#----------------------------------------------------------------------#
-# If you want to simulate curves with comparison of experimental data  #
-# you need to add three files in .txt with the names:				   #
-# 1) cv_ideal_extracted.txt (the ideal HF-CV extracted from the HF-CV  #
-#														Messprogram)   #
-# 2) cv_experimental.txt (the experimental HF-CV curve)                #
-# 3) ditexperimental.txt (the experimentally extracted Dit)	  		   #
-#																	   #
-# The program is constructed for SiO2/c-Si MOS system, if you want to  #
-# use for others materials you need to change manually the constants   #
-# the material.                                                        #
-#----------------------------------------------------------------------#
-# Researchers should cite this work as follows:    					   #
-#                   												   #
-# Sevillano Bendezú, Miguel Ángel."Comparison and evaluation of 	   #		
-# measured and simulated High-Frequency 							   #
-# Capacitance-voltage curves of MOS structures for different interface #
-# passivation parameters". Master Thesis. 2019						   #
-# 																	   #
-#====================================================================#
+===========HF-CV simulation through passivation parameters:==============
+# 																	   	#
+# The program was developed by Miguel Ángel Sevillano in the frame of	#
+# a Master degre in Physics. If you have any question or suggestion		#
+# please, contact to the author to the following emails:				#
+# msevillanob@pucp.edu.pe or msevillano@uni.pe							#
+#-----------------------------------------------------------------------#
+# If you want to simulate curves with comparison of experimental data	#
+# you need to add three files in .txt with the names:				  	#
+# 1) cv_ideal_extracted.txt (the ideal HF-CV extracted from the HF-CV	#
+# Messprogram)															#
+# 2) cv_experimental.txt (the experimental HF-CV curve)					#
+# 3) ditexperimental.txt (the experimentally extracted Dit)				#
+#																		#
+# The program is constructed for SiO2/c-Si MOS system, if you want to	#
+# use for others materials you need to change manually the constants	#
+# the material.															#
+#-----------------------------------------------------------------------#
+# Researchers should cite this work as follows:							#
+#																		#
+# Sevillano Bendezú, Miguel Ángel."Comparison and evaluation of			#		
+# measured and simulated High-Frequency									#
+# Capacitance-voltage curves of MOS structures for different interface	#
+# passivation parameters". Master Thesis. 2019							#
+#																		#
+#=======================================================================#
 """
 
 import numpy as np
